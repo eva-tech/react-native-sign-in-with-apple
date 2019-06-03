@@ -1,0 +1,9 @@
+{
+  "name": "react-native-sign-in-with-apple",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
